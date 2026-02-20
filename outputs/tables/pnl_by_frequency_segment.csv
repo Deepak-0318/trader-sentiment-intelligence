@@ -1,0 +1,11 @@
+freq_segment,classification,daily_pnl
+Frequent,Extreme Fear,6799.753651285714
+Frequent,Extreme Greed,8437.437459058609
+Frequent,Fear,10311.492504574324
+Frequent,Greed,5486.377106888158
+Frequent,Neutral,5759.1621817234045
+Infrequent,Extreme Fear,457.0202746363636
+Infrequent,Extreme Greed,1627.4738511857709
+Infrequent,Fear,913.0349110419162
+Infrequent,Greed,1401.9495129563954
+Infrequent,Neutral,1118.075454180851
