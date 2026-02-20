@@ -45,23 +45,6 @@ streamlit run app.py
 
 That'll spin up a dashboard where you can filter by sentiment and dig into the data.
 
-## Project Structure
-trader-sentiment/
-│
-├── data/
-│   ├── raw/
-│   ├── intermediate/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_analysis.ipynb
-│   └── 03_modelling.ipynb
-│
-├── app.py
-├── requirements.txt
-└── README.md
-
 ## Bottom Line
 
 If you're trading crypto and not thinking about position sizing relative to market conditions, you're leaving money on the table. Fear periods are brutal but profitable if you're disciplined. Greed periods blow people up. Consistency beats genius every time.
